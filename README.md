@@ -5,7 +5,7 @@
 ```powershell
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
-![imagen1](./img/captura1.png)
+
 
 2. Sigue las instrucciones del GitHub.
 
@@ -26,7 +26,7 @@ nvm install v14.15.5 --alias angular-v14
 // Diferente versión
 nvm install v16.13.2 --alias angular-v1
 ```
-
+![imagen1](./img/captura1.png)
 (Se pueden instalar todas las versiones disponibles)
 
 Activa el entorno virtual recién creado:
